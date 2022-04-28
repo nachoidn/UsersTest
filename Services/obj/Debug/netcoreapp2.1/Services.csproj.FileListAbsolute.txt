@@ -1,0 +1,5 @@
+C:\Users\Nacho\source\repos\ApiUsersTest\Services\obj\Debug\netcoreapp2.1\Services.csproj.AssemblyReference.cache
+C:\Users\Nacho\source\repos\ApiUsersTest\Services\obj\Debug\netcoreapp2.1\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\source\repos\ApiUsersTest\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+C:\Users\Nacho\source\repos\ApiUsersTest\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+C:\Users\Nacho\source\repos\ApiUsersTest\Services\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+C:\Users\Nacho\source\repos\ApiUsersTest\RepositoryTests\bin\Debug\netcoreapp2.1\CoverletSourceRootsMapping
+C:\Users\Nacho\source\repos\ApiUsersTest\RepositoryTests\obj\Debug\netcoreapp2.1\RepositoryTests.csproj.AssemblyReference.cache
+C:\Users\Nacho\source\repos\ApiUsersTest\RepositoryTests\obj\Debug\netcoreapp2.1\RepositoryTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\source\repos\ApiUsersTest\RepositoryTests\obj\Debug\netcoreapp2.1\RepositoryTests.AssemblyInfoInputs.cache
+C:\Users\Nacho\source\repos\ApiUsersTest\RepositoryTests\obj\Debug\netcoreapp2.1\RepositoryTests.AssemblyInfo.cs
+C:\Users\Nacho\source\repos\ApiUsersTest\RepositoryTests\obj\Debug\netcoreapp2.1\RepositoryTests.csproj.CoreCompileInputs.cache

@@ -1,0 +1,4 @@
+C:\Users\Nacho\source\repos\ApiUsersTest\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\source\repos\ApiUsersTest\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Nacho\source\repos\ApiUsersTest\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfo.cs
+C:\Users\Nacho\source\repos\ApiUsersTest\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.CoreCompileInputs.cache

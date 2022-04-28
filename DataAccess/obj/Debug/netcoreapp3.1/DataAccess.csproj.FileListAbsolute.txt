@@ -1,0 +1,13 @@
+C:\Users\Nacho\source\repos\ApiUsersTest\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nacho\source\repos\ApiUsersTest\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Nacho\source\repos\ApiUsersTest\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\Nacho\source\repos\ApiUsersTest\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\ApiUsersTest\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\Nacho\source\repos\ApiUsersTest\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.json
+C:\Users\Nacho\source\repos\ApiUsersTest\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+C:\Users\Nacho\source\repos\ApiUsersTest\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Nacho\source\repos\ApiUsersTest\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Nacho\source\repos\ApiUsersTest\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Nacho\source\repos\ApiUsersTest\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Nacho\source\repos\ApiUsersTest\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.genruntimeconfig.cache
+C:\Users\Nacho\source\repos\ApiUsersTest\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.AssemblyReference.cache
